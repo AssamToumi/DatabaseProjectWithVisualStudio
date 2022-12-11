@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataComparison>
+  <Version>10</Version>
+  <ConnectionProperties1>
+    <ConnectionString>Data Source=LAPTOP-TNAJ0EAR\SQLEXPRESS;Initial Catalog=EmployeeDB;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</ConnectionString>
+    <FullDisplayName>LAPTOP-TNAJ0EAR\SQLEXPRESS.EmployeeDB (LAPTOP-TNAJ0EAR\assam)</FullDisplayName>
+  </ConnectionProperties1>
+  <ConnectionProperties2>
+    <ConnectionString>Data Source=LAPTOP-TNAJ0EAR\SQLEXPRESS;Initial Catalog=EmployeeDB2;Integrated Security=True;Pooling=False</ConnectionString>
+    <FullDisplayName>LAPTOP-TNAJ0EAR\SQLEXPRESS.EmployeeDB2 (LAPTOP-TNAJ0EAR\assam)</FullDisplayName>
+  </ConnectionProperties2>
+  <SessionSettings>Default</SessionSettings>
+</DataComparison>

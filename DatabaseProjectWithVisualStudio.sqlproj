@@ -62,6 +62,7 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Stored Procedures\" />
     <Folder Include="SqlShemaCompare" />
+    <Folder Include="SqDataCompare" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Employeee.sql" />
@@ -85,5 +86,6 @@
   <ItemGroup>
     <None Include="SqlShemaCompare\DevToPreprod.scmp" />
     <None Include="SqlShemaCompare\DevToSource.scmp" />
+    <None Include="SqDataCompare\Dev_To_Preprod_DataCompare.dcmp" />
   </ItemGroup>
 </Project>
