@@ -80,6 +80,7 @@
     <Build Include="dbo\Stored Procedures\spAddEmployee.sql" />
     <Build Include="dbo\Stored Procedures\spGetEmployee.sql" />
     <Build Include="dbo\Stored Procedures\spSaveEmployee.sql" />
+    <Build Include="dbo\Tables\Table_Add4Test.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SqlShemaCompare\SqlSchemaCompareDevToSource.scmp" />
