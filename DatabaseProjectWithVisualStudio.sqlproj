@@ -83,6 +83,7 @@
     <Build Include="dbo\Tables\Table_Add4Test.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="SqlShemaCompare\SqlSchemaCompareDevToSource.scmp" />
+    <None Include="SqlShemaCompare\DevToPreprod.scmp" />
+    <None Include="SqlShemaCompare\DevToSource.scmp" />
   </ItemGroup>
 </Project>
